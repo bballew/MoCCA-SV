@@ -1,0 +1,17 @@
+annotation/genomic_context/GRCh37_no_chr/RepeatMasker.bed filter=lfs diff=lfs merge=lfs -text
+annotation/genomic_context/hg19_chr/RepeatMasker.bed filter=lfs diff=lfs merge=lfs -text
+annotation/genomic_context/hg19_chr/Telo_Centro.bed filter=lfs diff=lfs merge=lfs -text
+annotation/public_datasets/hg19_chr/DGV.bed filter=lfs diff=lfs merge=lfs -text
+annotation/genes/GRCh37_no_chr/RefSeq.bed filter=lfs diff=lfs merge=lfs -text
+annotation/genomic_context/hg19_chr/SegDups.bed filter=lfs diff=lfs merge=lfs -text
+annotation/public_datasets/GRCh37_no_chr/ClinGen.bed filter=lfs diff=lfs merge=lfs -text
+annotation/public_datasets/hg19_chr/ClinVar.bed filter=lfs diff=lfs merge=lfs -text
+annotation/genes/hg19_chr/RefSeq.bed filter=lfs diff=lfs merge=lfs -text
+annotation/public_datasets/GRCh37_no_chr/1KG.bed filter=lfs diff=lfs merge=lfs -text
+annotation/public_datasets/GRCh37_no_chr/ClinVar.bed filter=lfs diff=lfs merge=lfs -text
+annotation/public_datasets/GRCh37_no_chr/DGV.bed filter=lfs diff=lfs merge=lfs -text
+annotation/genomic_context/GRCh37_no_chr/SegDups.bed filter=lfs diff=lfs merge=lfs -text
+annotation/genomic_context/GRCh37_no_chr/Telo_Centro.bed filter=lfs diff=lfs merge=lfs -text
+annotation/public_datasets/hg19_chr/1KG.bed filter=lfs diff=lfs merge=lfs -text
+annotation/public_datasets/hg19_chr/ClinGen.bed filter=lfs diff=lfs merge=lfs -text
+annotation/human_g1k_v37.genome filter=lfs diff=lfs merge=lfs -text
